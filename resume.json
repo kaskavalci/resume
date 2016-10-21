@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Halil Kaskavalci",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "halilcan@gmail.com",
+    "phone": "+90 538 407 0604",
+    "website": "http://www.kaskavalci.com",
+    "summary": "Halil worked both in Academy and Industry. He has hands-on experience in Artificial Intelligence, Embedded Programming and Cluster Management. He utilized wide range of programming languages and technologies in development. He worked as TA in Yeditepe University and participated in joint research project with Veripark. He did internships at Siemens Corporate Research during his bachelors and masters where he closely worked with S7P PLC firmware and contributed into real-time PLCs used in industry today. He joined SAP to build the next generation distributed database, SAP HANA Vora. He is creating tools and services for cluster management, ensures cluster availability and build fault-tolerant systems.",
+    "location": {
+      "address": "Karliktepe Mh Cukurbostan Sk No:22/4 Kartal",
+      "postalCode": "34870",
+      "city": "Istanbul",
+      "countryCode": "TUR",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "hkaskavalci",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kaskavalci",
+        "url": "www.linkedin.com/in/kaskavalci"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SAP SE",
+      "position": "Software Developer",
+      "website": "http://www.sap.com",
+      "startDate": "2015-11-15",
+      "summary": "Halil is part of SAP HANA Vora team who builds highly available, distributed database for businesses. It leverages and extends the Apache Spark execution framework to provide enriched interactive analytics on enterprise and Hadoop data.",
+      "highlights": [
+        "Built web services for Cluster Management of SAP HANA Vora using Go Language",
+        "Actively gave support for Ambari installations. Contributed to codebase of Python scripts",
+        "Worked thightly with UX and UI team to ensure best results.",
+        "Implemented python and shell scripts for testing and deployment.",
+        "Created Docker images for continuous integration. Utilized docker-compose for orchestration multiple containers.",
+        "Integrated Nomad and Consul from Hashicorp into development stack. Implemented clients and connectors.",
+        "Contributed into Nomad's codebase for custom solutions."
+      ]
+    },
+    {
+      "company": "Siemens CT USA",
+      "position": "Software Developer Intern",
+      "website": "http://www.siemens.com",
+      "startDate": "2014-07-01",
+      "endDate": "2015-07-01",
+      "summary": "After graduating from bachelors, Halil worked at Siemens CT for one year as MSc intern. Halil was part of Automation team which builds and maintains firmware of 1300/1500 PLCs.",
+      "highlights": [
+        "Contributed into firmware of S7P 1300/1500 family PLC's.",
+        "Implemented data serialization functions for importing and exporing data.",
+        "Experimented with float conversions to minimize data loss.",
+        "Created remote PLC debugging service.",
+        "Implemented Hardware as a Service to share limited amount of hardware to a cluster of users.",
+        "Decompiled and cracked an in-house, closed source tool to automate its UI functions",
+        "Languages and Technologies used: C++, C#, Shell, Python, SCL, Decompilers, TIA"
+      ]
+    },
+    {
+      "company": "Yeditepe University",
+      "position": "Teaching and Research Assistant",
+      "website": "http://www.yeditepe.edu.tr",
+      "startDate": "2013-02-01",
+      "endDate": "2014-06-25",
+      "summary": "Worked in joint project with Veripark to cluster customers with respect to their attributes. As a TA, thaught Computer Programming Fundamentals, Data Structures and Data Communications and Computer Netowrking courses.",
+      "highlights": [
+        "Utilized C, C++, Java languages in labs",
+        "Joint research project with Veripark.",
+        "Worked on a novel algorithm based on Multi-Objective Genetic Algorithms to perform clustering.",
+        "A clustering algorithm to successfully detects convex shaped natural clusters with optimum number of clusters without priori knowledge."
+      ]
+    },
+    {
+      "company": "Siemens Corporate Research USA",
+      "position": "Software Developer Intern",
+      "website": "http://www.siemens.com",
+      "startDate": "2011-06-01",
+      "endDate": "2012-01-05",
+      "summary": "Halil did a voluntary long term internship in Siemens CT. It was his first enterprise level project.",
+      "highlights": [
+        "Developed S7P disassembler using GNU objdump.",
+        "Created Eclipse plug-in for the disassembler.",
+        "Implemented a C# tool to convert Excel spreadsheets into appropriate C header files for automatic compilation.",
+        "Assisted in performance measuring in x86 systems using WinDbg."
+      ]
+    },
+    {
+      "company": "Yeditepe University",
+      "position": "Undergrad Assistant",
+      "website": "http://www.yeditepe.edu.tr",
+      "startDate": "2011-02-01",
+      "endDate": "2013-01-01",
+      "summary": "During his bachelor's program Halil worked as undergrad assistant in my university.",
+      "highlights": [
+        "Participated in courses where Assembly, Java and C languages are thaught."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Yeditepe University",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007-09-01",
+      "endDate": "2013-02-01",
+      "gpa": "3.74",
+      "courses": []
+    },
+    {
+      "institution": "Yeditepe University",
+      "area": "Electrical & Electronics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2008-09-01",
+      "endDate": "2013-02-01",
+      "gpa": "3.49",
+      "courses": []
+    },
+    {
+      "institution": "The University of Nottingham",
+      "area": "Computer Science",
+      "studyType": "Erasmus Exchange",
+      "startDate": "2010-01-01",
+      "endDate": "2010-06-01",
+      "gpa": "",
+      "courses": [
+        "Object-Oriented Methods",
+        "Enterprise Level Computing",
+        "Decision Support Methodologies",
+        "Bioinformatics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Fist ranking among 2013 class of Computer Engineering",
+      "date": "2013-06-01",
+      "awarder": "Yeditepe University",
+      "summary": ""
+    },
+    {
+      "title": "Third ranking among 2013 class of Electrical & Electronics Engineering",
+      "date": "2013-06-01",
+      "awarder": "Yeditepe University",
+      "summary": ""
+    },
+    {
+      "title": "Third ranking among Engineering and Architecture Faculty",
+      "date": "2013-06-01",
+      "awarder": "Yeditepe University",
+      "summary": ""
+    },
+    {
+      "title": "Full tuition scholarship",
+      "date": "2007-09-01",
+      "awarder": "Yeditepe University",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Distributed Systems",
+      "level": "Intermediate",
+      "keywords": [
+        "Go Language",
+        "Python",
+        "Web Services",
+        "Docker",
+        "Ambari",
+        "Cluster Management"
+      ]
+    },
+    {
+      "name": "System Programming",
+      "level": "Advanced",
+      "keywords": [
+        "C++",
+        "C",
+        "Shell",
+        "Computer Networks"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Turkish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Popular Science",
+      "keywords": [
+        "Biology",
+        "Physics",
+        "Psychology",
+        "Economics"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Ertan Eligul",
+      "flavor": "professional",
+      "reference": "Halil is a very hardworking and clever person. He is a fast learner, very familiar to Unix/Linux environment, has an expertise on the C programming language and able to design programs in low level architectures."
+    }
+  ]
+}
