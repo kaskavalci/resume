@@ -33,15 +33,18 @@
       "position": "Software Developer",
       "website": "http://www.sap.com",
       "startDate": "2015-11-15",
-      "summary": "Halil is part of SAP HANA Vora team who builds highly available, distributed database for businesses. It leverages and extends the Apache Spark execution framework to provide enriched interactive analytics on enterprise and Hadoop data.",
+      "summary": "Halil is part of SAP HANA Vora team who builds highly available, distributed database for businesses. It leverages and extends the Apache Spark execution framework to provide enriched interactive analytics on enterprise and Hadoop data. He is part of Cluster Management team and responsible for distribution, installation and high availability of Vora services in all supported operating systems.",
       "highlights": [
-        "Built web services for Cluster Management of SAP HANA Vora using Go Language",
-        "Actively gave support for Ambari installations. Contributed to codebase of Python scripts",
-        "Worked thightly with UX and UI team to ensure best results.",
-        "Implemented python and shell scripts for testing and deployment.",
-        "Created Docker images for continuous integration. Utilized docker-compose for orchestration multiple containers.",
-        "Integrated Nomad and Consul from Hashicorp into development stack. Implemented clients and connectors.",
-        "Contributed into Nomad's codebase for custom solutions."
+        "Built and driven SAP Hana Vora Management cockpit using Go and RESTful APIs",
+        "Worked thightly with UX and UI team to ensure best results",
+        "Experienced in stateless architectures and microservices",
+        "Gave customer support when needed and took Developer Angel role",
+        "Implemented and maintained distribution and installation of Vora in Hadoop cluster managers (Ambari, Cloudera, MapR)",
+        "Implemented Python and Shell scripts for testing and deployment",
+        "Created Docker images for continuous integration. Utilized docker-compose for orchestration multiple containers",
+        "Integrated Nomad and Consul from Hashicorp into development stack. Implemented clients and connectors",
+        "Contributed into Nomad's codebase for custom solutions.",
+        "Utilized programming languages and technologies: Go, Python, Shell, C++, Docker"
       ]
     },
     {
@@ -76,6 +79,17 @@
       ]
     },
     {
+      "company": "Yeditepe University",
+      "position": "Undergrad Assistant",
+      "website": "http://www.yeditepe.edu.tr",
+      "startDate": "2012-02-01",
+      "endDate": "2013-01-01",
+      "summary": "During his bachelor's program Halil worked as undergrad assistant in my university.",
+      "highlights": [
+        "Participated in courses where Java and C languages are thaught."
+      ]
+    },
+    {
       "company": "Siemens Corporate Research USA",
       "position": "Software Developer Intern",
       "website": "http://www.siemens.com",
@@ -94,10 +108,10 @@
       "position": "Undergrad Assistant",
       "website": "http://www.yeditepe.edu.tr",
       "startDate": "2011-02-01",
-      "endDate": "2013-01-01",
-      "summary": "During his bachelor's program Halil worked as undergrad assistant in my university.",
+      "endDate": "2011-05-31",
+      "summary": "During his bachelor's program Halil worked as undergrad assistant in Yediptepe University.",
       "highlights": [
-        "Participated in courses where Assembly, Java and C languages are thaught."
+        "Participated in C and Assembly courses' lab works."
       ]
     }
   ],
@@ -168,7 +182,6 @@
       "name": "Distributed Systems",
       "level": "Intermediate",
       "keywords": [
-        "Go Language",
         "Python",
         "Web Services",
         "Docker",
@@ -180,6 +193,7 @@
       "name": "System Programming",
       "level": "Advanced",
       "keywords": [
+        "Go",
         "C++",
         "C",
         "Shell",
@@ -209,10 +223,5 @@
     }
   ],
   "references": [
-    {
-      "name": "Ertan Eligul",
-      "flavor": "professional",
-      "reference": "Halil is a very hardworking and clever person. He is a fast learner, very familiar to Unix/Linux environment, has an expertise on the C programming language and able to design programs in low level architectures."
-    }
   ]
 }
